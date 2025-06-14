@@ -4,6 +4,7 @@ margin:0;
 box-sizing:border-box;		
 }
 
+
 header{
 	position:sticky;
 	top:0;
@@ -96,16 +97,16 @@ justify-content:center;
 	gap:20px;
 }
 .perfume{
-	width:400px;
+	width:420px;
 	margin-left:40px;
 	border-radius:10px;
 }
 .makeup{
-	width:400px;
+	width:420px;
 	border-radius:10px;
 }
 .beauty{
-	width:400px;
+	width:420px;
 	border-radius:10px;
 }
 
@@ -127,27 +128,184 @@ margin-left:40px;
 .brands{
 	display:flex;
 	gap:20px;
-	background-color:#ffffc5;
+	background-color:#fff7d6;
 	padding:40px;
 	border-radius:5px;
 	justify-content:center;
 	
 }
 .nykaa{
-	width:410px;
+	width:420px;
 border-radius:10px;
 
 }
 .tilbury{
-	width:410px;
+	width:420px;
  border-radius:10px;
  margin-right:40px;
 }
 .maybe{
-	width:410px;
+	width:420px;
 margin-left:60px;
 border-radius:10px;		
 }
+.special{
+	background-color:#ffffff;
+}
 .special-offers{
 	width:1300px;
+
+}
+.loving{
+	display:flex;
+	gap:10px;
+	justify-content:center;
+	padding-bottom:60px;
+	background-color:#ffffff;
+}
+.face-body{
+	width:250px;
+	border-radius:10px;
+}
+.facial-care{
+	width:250px;
+		border-radius:10px;
+}
+.glowup{
+	width:250px;
+	border-radius:10px;
+}
+.health-min{
+	width:250px;
+		border-radius:10px;
+}
+.hair{
+	width:250px;
+		border-radius:10px;
+}
+.caffiene{
+	width:1350px;
+}
+.get{
+	position:absolute;
+	top:1800px;
+	padding-left:20px;
+	font-size:20px;
+	
+}
+.buy{
+	font-weight:bold;
+	font-size:22px;
+}
+.off{
+	display:flex;
+	flex-direction:column;
+}
+.get-extra{
+	display:flex;
+	gap:20px;
+	padding:20px;
+	background-color:#fff7d5;
+	padding-left:10px;
+}
+.perfumebody{
+	width:200px;
+	
+}
+.perfumes{
+	width:210px;
+	
+	
+}
+.brightscrub{
+width:200px;
+
+}
+.sunscreen{
+	width:200px;
+}
+.brightbody{
+	width:200px;
+}
+.tan{
+	width:200px;
+}
+.luxe-main{
+	background-color:#ffffff;
+	padding-top:20px;
+	
+	
+}
+.luxe{
+margin-top:10px;
+
+	
+}
+.nykaaluxe{
+	width:97vw;
+}
+.luxe-2{
+	display:flex;
+	gap:20px;
+	justify-content:center;
+}
+.flawless{
+	width:410px;
+	border-radius:10px;
+}
+.tiblelips{
+	width:410px;
+	border-radius:10px;
+}
+.mac{
+	width:410px;
+		border-radius:10px;
+	
+}
+.get-gifting{
+	width:1300px;
+}
+.gifts{
+	display:flex;
+	gap:30px;
+	margin-left:40px;
+}
+.gift-store{
+	width:600px;
+border-radius:20px;	
+}
+.gift-card{
+	width:600px;
+	border-radius:20px;	
+	
+}
+.discover-offers{
+	display:flex;
+	margin-top:20px;
+	gap:10px;
+	justify-content:center;
+}
+.stores{
+	width:200px;
+	border-radius:10px;
+}
+.new-at{
+	width:200px;
+	border-radius:10px;
+}
+.ingredient{
+	width:200px;
+	border-radius:10px;
+}
+.summer{
+	width:200px;
+	border-radius:10px;
+}
+.gen-z{
+	width:200px;
+	border-radius:10px;
+}
+.gif{
+	width:200px;
+	border-radius:10px;
 }

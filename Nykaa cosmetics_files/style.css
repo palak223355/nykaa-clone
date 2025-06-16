@@ -4,7 +4,6 @@ margin:0;
 box-sizing:border-box;		
 }
 
-
 header{
 	position:sticky;
 	top:0;
@@ -128,7 +127,7 @@ margin-left:40px;
 .brands{
 	display:flex;
 	gap:20px;
-	background-color:#fff7d6;
+	background-color:#ffffc5;
 	padding:40px;
 	border-radius:5px;
 	justify-content:center;
@@ -149,19 +148,14 @@ border-radius:10px;
 margin-left:60px;
 border-radius:10px;		
 }
-.special{
-	background-color:#ffffff;
-}
 .special-offers{
 	width:1300px;
-
 }
 .loving{
 	display:flex;
 	gap:10px;
 	justify-content:center;
 	padding-bottom:60px;
-	background-color:#ffffff;
 }
 .face-body{
 	width:250px;
@@ -189,193 +183,11 @@ border-radius:10px;
 .get{
 	position:absolute;
 	top:1800px;
-	padding-left:20px;
+	left:50px;
 	font-size:20px;
 	
 }
 .buy{
 	font-weight:bold;
 	font-size:22px;
-}
-.off{
-	display:flex;
-	flex-direction:column;
-}
-.get-extra{
-	display:flex;
-	gap:20px;
-	padding:20px;
-	background-color:#fff7d5;
-	padding-left:10px;
-}
-.perfumebody{
-	width:200px;
-	
-}
-.perfumes{
-	width:210px;
-	
-	
-}
-.brightscrub{
-width:200px;
-
-}
-.sunscreen{
-	width:200px;
-}
-.brightbody{
-	width:200px;
-}
-.tan{
-	width:200px;
-}
-.luxe-main{
-	background-color:#ffffff;
-	padding-top:20px;
-	
-	
-}
-.luxe{
-margin-top:10px;
-
-	
-}
-.nykaaluxe{
-	width:97vw;
-}
-.luxe-2{
-	display:flex;
-	gap:20px;
-	justify-content:center;
-	background-color:white;
-	width:95vw;
-}
-.flawless{
-	width:410px;
-	border-radius:10px;
-}
-.tiblelips{
-	width:410px;
-	border-radius:10px;
-}
-.mac{
-	width:410px;
-		border-radius:10px;
-	
-}
-.get-gifting{
-	width:1300px;
-}
-.gifts{
-	display:flex;
-	gap:30px;
-	margin-left:40px;
-}
-.gift-store{
-	width:600px;
-border-radius:20px;	
-}
-.gift-card{
-	width:600px;
-	border-radius:20px;	
-	
-}
-.discover-offers{
-	display:flex;
-	margin-top:20px;
-background-color:white;
-width:98vw;
-	
-}
-.new-at{
-		width:90%;
-	border-radius:10px;
-}
-
-.night-routine{
-	display:flex;
-	flex-direction:column;
-	margin-top:20px;
-	width:100vw;
-}
-.products{
-	background-color:#493690;
-	width:98vw;
-}
-.olay{
-	width:200px;
-}
-.estura{
-	width:200px;
-}
-.dot-key{
-	width:200px;
-}
-.minimalist{
-	width:200px;
-}
-.nykaaa{
-	width:200px;
-}
-.skintype{
-	display:flex;
-	justify-content:center;
-	margin-right:110px;
-}
-.glow-main{
-	margin-top:20px;
-}
-.h2{
-	margin-left:30px;
-}
-.glowing-skin{
-border-radius:10px;
-	width:95vw;	
-}
-.nykaa-skin{
-width:180px;
-}
-.nykaa-tool{
-width:180px;
-}
-.nykaa-hair{
-width:180px;
-}
-.wander{
-width:180px;
-}
-.nykaa-perfume{
-	width:180px;
-}
-.nykaa-lips{
-	width:180px;
-}
-.shopnow{
-	display:flex;
-	justify-content:center;
-	margin-right:80px;
-}
-.shop{
-	width:90vw;
-
-}
-.texte{
-	display:flex;
-	justify-content:center;
-	margin-top:40px;
-	margin-right:80px;
-}
-.text{
-	width:90vw;
-}
-.nykaahello{
-	font-size:25px;
-	margin-left:50px;
-	margin-top:30px;
-}
-.footer-main{
-	background-color:#3a4047;
-	width:100vw;
-	padding:50px;
 }

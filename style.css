@@ -381,9 +381,18 @@ width:180px;
 }
 .experience-s{
 	display:flex;
-	gap:30px;
+	gap:40px;
 }
 .get-p{
 	color:white;
 	
+}
+.footer-2{
+	display:flex;
+	gap:20px;
+}
+.send{
+	border:1px solid white;
+	color:white;
+	font-size:18px;
 }

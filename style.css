@@ -379,7 +379,11 @@ width:180px;
 	width:100vw;
 	padding:50px;
 }
+.experience-s{
+	display:flex;
+	gap:30px;
+}
 .get-p{
-	color:white;
-	background-color:whire;
+	color:black;
+	background-color:white;
 }

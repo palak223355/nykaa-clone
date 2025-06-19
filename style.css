@@ -375,14 +375,15 @@ width:180px;
 	margin-top:30px;
 }
 .footer-main{
+	display:flex;
+	gap:20px;
 	background-color:#3a4047;
 	width:100vw;
 	padding:50px;
 	color:white;
 }
 .experience-s{
-	display:flex;
-	gap:40px;
+	
 }
 .app{
 	color:white;
@@ -404,8 +405,7 @@ width:180px;
 	color:white;
 }
 .footer-2{
-	display:flex;
-	gap:15px;
+	
 }
 .y-e{
 	font-size:17px;

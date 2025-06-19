@@ -428,10 +428,11 @@ font-size:17px;
 .send-b{
 	border:1px solid white;
 	color:white;
-	font-size:18px;
+	font-size:15px;
 	border-radius:1px;
-
-	width:100px;
+	background-color:#3A4047;
+	width:80px;
+	
 
 }
 

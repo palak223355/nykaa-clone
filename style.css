@@ -393,15 +393,15 @@ width:180px;
 }
 .get-p{
 	color:white;
-	font-size:18px;
+	font-size:16px;
 }
 .experience{
-	font-size:18px;
+	font-size:15px;
 	color:white;
 }
 .footer-2{
 	display:flex;
-	gap:20px;
+	gap:15px;
 }
 .send{
 	border:1px solid white;
